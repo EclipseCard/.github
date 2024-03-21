@@ -12,13 +12,13 @@ Check out our demo at [eclipsecard.net/demo](https://www.eclipsecard.net/demo). 
 
 #### Business 💼
 
-- [Krish Kodali](https://www.linkedin.com/in/krish-kodali/), Co-Founder
-- [Nathan Chao](https://www.linkedin.com/in/nathan-chao-997376204/), Co-Founder
+- [Krish Kodali](https://www.linkedin.com/in/krish-kodali/), Co-Founder / Business
+- [Nathan Chao](https://www.linkedin.com/in/nathan-chao-997376204/), Co-Founder / Operations
 
 #### Engineering 🛠️
 
-- [Mingchung Xia](https://www.linkedin.com/in/mingchung-xia/), Co-Founder
-- [Luke Wang](https://www.linkedin.com/in/luke-wang63/), Co-Founder
+- [Mingchung Xia](https://www.linkedin.com/in/mingchung-xia/), Co-Founder / Engineering
+- [Luke Wang](https://www.linkedin.com/in/luke-wang63/), Co-Founder / Engineering
 - [Alina Cai](https://www.linkedin.com/in/alina-cai/), Founding Engineer
 
 ## Contributing
