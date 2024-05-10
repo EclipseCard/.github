@@ -20,6 +20,7 @@ Check out our demo at [eclipsecard.net/demo](https://www.eclipsecard.net/demo). 
 - [Mingchung Xia](https://www.linkedin.com/in/mingchung-xia/), Co-Founder / Engineering
 - [Luke Wang](https://www.linkedin.com/in/luke-wang63/), Co-Founder / Engineering
 - [Alina Cai](https://www.linkedin.com/in/alina-cai/), Founding Engineer
+- [Han Zhou](https://www.linkedin.com/in/han-zhou-656676280/), Software Engineering Intern
 
 ## Contributing
 
