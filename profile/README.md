@@ -24,4 +24,4 @@ Check out our demo at [eclipsecard.net/demo](https://www.eclipsecard.net/demo). 
 
 ## Contributing
 
-Our projects are currently all private and closed source. However, feedback is greatly appreciated from the community, which you can send directly to mingchung@eclipsecard.net.
+Our projects are currently all private and closed source. However, feedback is greatly appreciated from the community, which you can send directly to info@eclipsecard.net.
