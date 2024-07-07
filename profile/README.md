@@ -10,8 +10,8 @@ The Eclipse App is now available to download for free on the [App Store](https:/
 - [Mingchung Xia](https://www.linkedin.com/in/mingchung-xia/), Co-Founder / CTO
 - [Luke Wang](https://www.linkedin.com/in/luke-wang63/), Co-Founder / CIO
 - [Nathan Chao](https://www.linkedin.com/in/nathan-chao-997376204/), Co-Founder / COO
-- [Han Zhou](https://www.linkedin.com/in/han-zhou-656676280/), Software Engineering Intern
 - [Alina Cai](https://www.linkedin.com/in/alina-cai/), Founding Engineer / Advisor
+- [Han Zhou](https://www.linkedin.com/in/han-zhou-656676280/), Software Engineering Intern
 
 ## Contributing
 
