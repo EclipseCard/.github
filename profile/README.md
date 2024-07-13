@@ -1,6 +1,6 @@
 # Eclipse
 
-Eclipse is a FinTech startup building a next-generation platform for credit card optimization and recommendation. Learn more about us at [eclipsecard.net](https://eclipsecard.net).
+Our mission is to make credit cards easy to understand, use, and manage - for everyone. Learn more about us at [eclipsecard.net](https://eclipsecard.net).
 
 The Eclipse App is now available to download for free on the [App Store](https://apps.apple.com/app/eclipse-cashback-and-rewards/id6444634565)! 🎉
 
