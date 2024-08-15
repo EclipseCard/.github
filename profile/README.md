@@ -6,12 +6,14 @@ The Eclipse App is now available to download for free on the [App Store](https:/
 
 ## Our Team
 
-- [Krish Kodali](https://www.linkedin.com/in/krish-kodali/), Co-Founder / CEO
-- [Mingchung Xia](https://www.linkedin.com/in/mingchung-xia/), Co-Founder / CTO
-- [Luke Wang](https://www.linkedin.com/in/luke-wang63/), Co-Founder / CIO
-- [Nathan Chao](https://www.linkedin.com/in/nathan-chao-997376204/), Co-Founder / COO
-- [Alina Cai](https://www.linkedin.com/in/alina-cai/), Founding Engineer / Advisor
-- [Han Zhou](https://www.linkedin.com/in/han-zhou-656676280/), Software Engineering Intern
+- [Krish Kodali](https://www.linkedin.com/in/krish-kodali/), Co-Founder & Business
+- [Mingchung Xia](https://www.linkedin.com/in/mingchung-xia/), Co-Founder & Engineering
+- [Luke Wang](https://www.linkedin.com/in/luke-wang63/), Co-Founder & Engineering
+- [Nathan Chao](https://www.linkedin.com/in/nathan-chao-997376204/), Co-Founder & Operations
+- [Alina Cai](https://www.linkedin.com/in/alina-cai/), Engineering
+- [Han Zhou](https://www.linkedin.com/in/han-zhou-656676280/), Engineering
+- [Annie Gouchee](https://www.linkedin.com/in/anniegouchee/), Marketing
+
 
 ## Contributing
 
