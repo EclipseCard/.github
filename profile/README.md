@@ -2,11 +2,11 @@
 
 Our mission is to make credit cards easy to understand, use, and manage - for everyone. Learn more about us at [eclipsecard.net](https://eclipsecard.webflow.io).
 
-- 🎉 Available for download in Canada and the USA for free on the [App Store](https://apps.apple.com/app/eclipse-cashback-and-rewards/id6444634565)
+🎉 Available for download in Canada and the USA for free on the [App Store](https://apps.apple.com/app/eclipse-cashback-and-rewards/id6444634565)
 
-- 🚀 Rated #3 Product of the Month in FinTech on [Product Hunt](https://www.producthunt.com/products/eclipse-digital-wallet)
+🚀 Rated #3 Product of the Month in FinTech on [Product Hunt](https://www.producthunt.com/products/eclipse-digital-wallet)
 
-- 🔥 Featured on a news article by [Waterloo News](https://uwaterloo.ca/news/new-startup-helps-credit-card-users-maximize-rewards-and)
+🔥 Featured on a news article by [Waterloo News](https://uwaterloo.ca/news/new-startup-helps-credit-card-users-maximize-rewards-and)
 
 ![Alt text](https://github.com/EclipseCard/Public-Files/blob/main/documents/eclipse-example1.png?raw=true)
 ![Alt text](https://github.com/EclipseCard/Public-Files/blob/main/documents/eclipse-example2.png?raw=true)
